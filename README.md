@@ -1,4 +1,4 @@
-# Three.js Repository
+# Three.js
 
 This repository contains sample code and examples for working with Three.js, a JavaScript library for creating 3D graphics in the browser.
 
